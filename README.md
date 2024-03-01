@@ -20,7 +20,7 @@ Open a terminal as __administrator__ in __AIXCLI_SETUP__ folder, and run bellow 
 Default: 
 
 ```bash
-AIXCLI_SETUP.exe install #requirement
+AIXCLI_SETUP.exe install
 ```
 
 For WSL:
